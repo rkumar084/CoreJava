@@ -1,0 +1,15 @@
+bin/
+local.properties
+.settings/
+.loadpath
+.project
+
+.classpath
+.buildpath
+
+*.class
+
+*.log
+
+*.jar
+
